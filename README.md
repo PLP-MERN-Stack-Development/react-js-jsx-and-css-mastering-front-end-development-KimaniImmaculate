@@ -69,18 +69,57 @@ The relevant npm scripts are:
 
 Use these commands from inside `my-react-app/`.
 
-## Project structure (important files)
+## Live demo / Deployment
 
+Live demo: [Add your deployed URL here](https://example.com)
+
+
+## Project structure
+
+Below is a more detailed tree of the repository and the `my-react-app` application so you can quickly locate files.
+
+Root (top-level)
+
+```
+README.md
+README1.md
+Week3-Assignment.md
 my-react-app/
+```
 
-- `index.html` — base HTML
-- `src/main.jsx` — React entry point
-- `src/App.jsx` — Root app component
-- `src/components/` — Reusable components (Navbar, Card, Button, Layout, TaskManager, etc.)
-- `src/context/ThemeContext.jsx` — Theme context example
-- `src/hooks/useLocalStorage.js` — Custom localStorage hook
-- `public/` — Static assets and the `screenshots/` folder
+`my-react-app/` (important files and folders)
 
+```
+my-react-app/
+├─ package.json
+├─ vite.config.js
+├─ index.html
+├─ public/
+│  ├─ screenshots/
+│  │  ├─ TM1.png            # placeholder/real screenshots (replace as needed)
+│  │  ├─ TM2.png
+│  │  ├─ TM3.png
+│  │  └─ DarkMode.png
+│  └─ vite.svg
+├─ src/
+│  ├─ main.jsx
+│  ├─ App.jsx
+│  ├─ App.css
+│  ├─ index.css
+│  ├─ assets/              # images, icons, fonts
+│  ├─ components/
+│  │  ├─ APIPage.jsx
+│  │  ├─ Button.jsx
+│  │  ├─ Card.jsx
+│  │  ├─ Footer.jsx
+│  │  ├─ Layout.jsx
+│  │  ├─ Navbar.jsx
+│  │  └─ TaskManager.jsx
+│  ├─ context/
+│  │  └─ ThemeContext.jsx
+│  └─ hooks/
+│     └─ useLocalStorage.js
+```
 
 ## Notes & tips
 
