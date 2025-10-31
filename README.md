@@ -6,8 +6,6 @@ Below you'll find a quick project overview, exact setup instructions (Windows Po
 
 ## Screenshot preview
 
-Below are simple illustrative screenshots (placeholders) included in the repo. Replace them with real screenshots by saving PNG/SVG images to `my-react-app/public/screenshots/`.
-
 Screenshot — Home / Header
 
 ![App screenshot 1](my-react-app/public/screenshots/TM1.png)
