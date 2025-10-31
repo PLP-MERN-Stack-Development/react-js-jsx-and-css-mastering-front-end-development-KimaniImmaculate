@@ -10,11 +10,20 @@ Below are simple illustrative screenshots (placeholders) included in the repo. R
 
 Screenshot — Home / Header
 
-![App screenshot 1](my-react-app/public/screenshots/)
+![App screenshot 1](my-react-app/public/screenshots/TM1.png)
 
 Screenshot — Task Manager card
 
-![App screenshot 2](my-react-app/public/screenshots/)
+![App screenshot 2](my-react-app/public/screenshots/TM2.png)
+
+Screenshot - Task Manager API
+
+![App screenshot 3](my-react-app/public/screenshots/TM3.png)
+
+Screenshot - Dark Mode toggle
+
+![App screenshot 4](my-react-app/public/screenshots/DarkMode.png)
+
 
 ## Quick facts
 
@@ -94,9 +103,6 @@ my-react-app/
 
 Contributions are welcome. For smaller improvements: fork, create a branch, commit, and open a PR with a brief description.
 
-## License
-
-This repository is intended for learning and demonstration. Verify licensing before reusing large parts outside of learning contexts.
 
 
 
